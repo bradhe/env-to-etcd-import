@@ -3,3 +3,6 @@
 
 # Ignore Vim droppings
 *.sw[onp]
+
+# Ignore binaries
+/env-to-etcd-import
