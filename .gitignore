@@ -1,0 +1,5 @@
+# You know, just in case...
+*.env
+
+# Ignore Vim droppings
+*.sw[onp]
